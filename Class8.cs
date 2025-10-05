@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class8
+static class Class8
 {
-	public Class8()
+	static public void afia()
 	{
         int[] numbers = new int[10];
 
@@ -33,4 +33,5 @@ public class Class8
         Console.WriteLine($"Minimum value = {min}");
     }
 }
-}
+
+
