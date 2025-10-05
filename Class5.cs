@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class5
+static class Class5
 {
-	public Class5()
+	static public void afia()
 	{
         Console.Write("Enter a number: ");
         int num = Convert.ToInt32(Console.ReadLine());
@@ -15,4 +15,5 @@ public class Class5
         }
     }
 }
-}
+
+
