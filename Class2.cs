@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class2
+static class Class2
 {
-	public Class2()
+	static public void afia()
 	{
         double num2, num3, result = 0;
         char operation;
@@ -57,4 +57,5 @@ public class Class2
         }
     }
 }
+
 
