@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class6
+static class Class6
 {
-	public Class6()
+	static public void afia()
 	{
         Console.Write("Enter a number: ");
         int n = Convert.ToInt32(Console.ReadLine());
@@ -19,4 +19,5 @@ public class Class6
         Console.WriteLine($"Factorial of {n} is: {factorial}");
     }
 }
-}
+
+
