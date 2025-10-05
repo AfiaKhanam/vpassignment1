@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class3
+static class Class3
 {
-	public Class3()
+	static public void afia()
 	{
         Console.Write("Enter marks (0 - 100): ");
         int marks = Convert.ToInt32(Console.ReadLine());
@@ -33,4 +33,5 @@ public class Class3
         }
     }
 }
+
 
