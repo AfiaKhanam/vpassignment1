@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class1
+static class Class1
 {
-	public Class1()
+  static public void afia()
 	{
         
         Console.Write("Enter a number: ");
@@ -19,4 +19,5 @@ public class Class1
         }
     }
 }
-}
+
+
