@@ -1,8 +1,8 @@
 ﻿using System;
 
-public class Class9
+static class Class9
 {
-	public Class9()
+	static public void afia()
 	{
         int[] numbers = new int[10];
         int evenCount = 0, oddCount = 0;
@@ -29,4 +29,5 @@ public class Class9
         Console.WriteLine($"Total Odd numbers: {oddCount}");
     }
 }
-}
+
+
